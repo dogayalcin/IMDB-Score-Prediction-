@@ -1,5 +1,5 @@
-# IMDB-Scoer-Prediction-
-IMDB Scoer Prediction using ML models. 
+# IMDB-Score-Prediction-
+IMDB Score Prediction using ML models. 
 DataSet from: https://www.kaggle.com/datasets/danielgrijalvas/movies?datasetId=2745&sortBy=voteCount&searchQuery=imbd
 
 Current Results with MAE:
